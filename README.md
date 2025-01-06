@@ -1,3 +1,5 @@
+# RAG App for Querying PDFs
+
 The **RAG (Retrieval Augmented Generation) App** is a Python-based tool that enables users to interact with their PDF documents using generative AI. By combining retrieval-based systems and generative models, this app allows you to query, chat, and gain insights directly from your documents. 
 
 This project demonstrates advanced concepts like running RAG apps locally (using Ollama), updating vector databases dynamically, utilizing RAG workflows with PDFs (or other files), and testing the quality of AI-generated responses.
@@ -37,3 +39,11 @@ This project demonstrates advanced concepts like running RAG apps locally (using
 - **Ollama**: For local model deployment.
 
 ---
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/rag-pdf-query.git
+   cd rag-pdf-query
+
